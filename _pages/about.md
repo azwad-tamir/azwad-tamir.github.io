@@ -9,6 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
+    <div style="text-align: center;">
+     <p>Fort Lee Road</p>
+    </div>
     <p></p>
     <p>Fort Lee Road</p>
     <p>Bogota, NJ 07603</p>
