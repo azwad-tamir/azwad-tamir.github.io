@@ -31,18 +31,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-• I have completed my PhD in the Department of ECE at UCF in December 2024 with a concentration in ML/AI.
-• I have 5+ years of experience in Designing, Developing, and implementing Deep learning models like LLMs, Transformers, GNNs, Generative
-models, Diﬀusion models, Foundation models, Multimodal Fusion models, and RL, on various applications including NLP, Bioinformatics,
-Healthcare, Forecasting, Electronics, CV, and have familiarity with version control(GIT), SQLite, MySQL, PostgreSQL, cloud computing(AWS),
-Parallel/Distributed computing (Multi GPU training), Docker, RAG, Prompt Engineering, MCP, and Data curation and Processing (Pandas,
-SQL, PowerBI, Kafka, Spark, Hadoop, Tableau).
-• I have 6 years of expertise in the Python (NumPy, SciPy, Pandas, Regular Expression(Regex)), java, and C++ programming languages using
-TensorFlow, Pytorch, CUDA, HuggingFace, Scikit‑learn frameworks, along with a deep understanding of statistics and linear algebra, and pro‑
-ficiency in clean, scalable, and documented coding practices.
-• I have multiple publications in top ML journals and conferences.
-• I also have industry experience during my internship as a Data Scientist at Bayer as well as working on joint projects with Tokyo Electron, ARM,
-and Synopsys on real‑world ML applications and large scale applied ML projects
+I have completed my PhD in the Department of ECE at UCF in December 2024 with a concentration in ML/AI.
+
+I have 5+ years of experience in Designing, Developing, and implementing Deep learning models like LLMs, Transformers, GNNs, Generative models, Diﬀusion models, Foundation models, Multimodal Fusion models, and RL, on various applications including NLP, Bioinformatics, Healthcare, Forecasting, Electronics, CV, and have familiarity with version control(GIT), SQLite, MySQL, PostgreSQL, cloud computing(AWS), Parallel/Distributed computing (Multi GPU training), Docker, RAG, Prompt Engineering, MCP, and Data curation and Processing (Pandas, SQL, PowerBI, Kafka, Spark, Hadoop, Tableau).
+
+I have 6 years of expertise in the Python (NumPy, SciPy, Pandas, Regular Expression(Regex)), java, and C++ programming languages using TensorFlow, Pytorch, CUDA, HuggingFace, Scikit‑learn frameworks, along with a deep understanding of statistics and linear algebra, and proficiency in clean, scalable, and documented coding practices.
+
+I have multiple publications in top ML journals and conferences.
+
+I also have industry experience during my internship as a Data Scientist at Bayer as well as working on joint projects with Tokyo Electron, ARM, and Synopsys on real‑world ML applications and large-scale applied ML projects.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
