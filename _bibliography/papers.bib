@@ -200,12 +200,13 @@
   keywords={Electroencephalography;Control systems;Mobile communication;IEEE Regions;Conferences;Brain-computer interfaces;Headphones;Electroencephalogram(EEG);Brainwave;Brain Computer Interference(BCI)},
   doi={10.1109/R10-HTC.2017.8289087},
   pdf={Brain-drive.pdf},
-  preview={ProtEC_image.JPG},
+  preview={brain_drive.jpg},
   additional_info={. [Publication link](https://ieeexplore.ieee.org/abstract/document/8289087)},
   abbr={Biomed}}
 
 
 @Article{3D_IC_design,
+  bibtex_show={true},
   AUTHOR = {Tamir, Azwad and Salem, Milad and Lin, Jie and Alasad, Qutaiba and Yuan, Jiann-shiun},
   TITLE = {Multi-Tier 3D IC Physical Design with Analytical Quadratic Partitioning Algorithm Using 2D P&R Tool},
   JOURNAL = {Electronics},
@@ -216,7 +217,12 @@
   URL = {https://www.mdpi.com/2079-9292/10/16/1930},
   ISSN = {2079-9292},
   ABSTRACT = {In this study, we developed a complete flow for the design of monolithic 3D ICs. We have taken the register-transfer level netlist of a circuit as the input and synthesized it to construct the gate-level netlist. Next, we partitioned the circuit using custom-made partitioning algorithms and implemented the place and route flow of the entire 3D IC by repurposing 2D electronic design automation tools. We implemented two different partitioning algorithms, namely the min-cut and the analytical quadratic (AQ) algorithms, to assign the cells in different tiers. We applied our flow on three different benchmark circuits and compared the total power dissipation of the 3D designs with their 2D counterparts. We also compared our results with that of similar works and obtained significantly better performance. Our two-tier 3D flow with AQ partitioner obtained 37.69%, 35.06%, and 12.15% power reduction compared to its 2D counterparts on the advanced encryption standard, floating-point unit, and fast Fourier transform benchmark circuits, respectively. Finally, we analyzed the type of circuits that are more applicable for a 3D layout and the impact of increasing the number of tiers of the 3D design on total power dissipation.},
-  DOI = {10.3390/electronics10161930}
+  DOI = {10.3390/electronics10161930},
+  keywords={3D integrated circuit;analytical quadratic;minimum cut;MIV;monolithic 3D IC;physical design;placement;tier partitioning},
+  pdf={3D_IC_design.pdf},
+  preview={3D_IC_photo.JPG},
+  additional_info={. [Publication link](https://www.mdpi.com/2079-9292/10/16/1930)},
+  abbr={Electronics}
 }
 
 @ARTICLE{KITE-DDI,
@@ -229,10 +235,17 @@
   number={},
   pages={40028-40043},
   keywords={Drugs;Predictive models;Feature extraction;Compounds;Neural networks;Training;Accuracy;Prediction algorithms;Biological system modeling;Computer architecture;Artificial intelligence;attention;BERT;CNN;deep learning;drug discovery;drug-drug interaction;DRKG;fine-tuning;knowledge graph;machine learning;pretraining;self-attention;SMILE;transfer learning;transformers},
-  doi={10.1109/ACCESS.2025.3547594}}
+  abstract={It is a common practice in modern medicine to prescribe multiple medications simultaneously to treat diseases. However, these medications could have adverse reactions between them, known as Drug-Drug Interactions (DDI), which have the potential to cause significant bodily injury and could even be fatal. Hence, it is essential to identify all the DDI events before prescribing multiple drugs to a patient. Most contemporary research for predicting DDI events relies on either information from Biomedical Knowledge graphs (KG) or drug SMILES, with very few managing to merge data from both to make predictions, while others use heuristic algorithms to extract features from SMILES and KGs, which are then fed into a Deep Learning framework to generate output. In this study, we propose a KG-integrated Transformer architecture to generate an end-to-end fully automated Machine Learning pipeline for predicting DDI events with high accuracy. The algorithm takes full-scale molecular SMILES sequences of a pair of drugs and a biomedical KG as input and predicts the interaction between the two drugs with high precision. The results show superior performance in two different benchmark datasets compared to existing state-of-the-art models especially when the test and training sets contain distinct sets of drug molecules. This demonstrates the strong generalization of the proposed model, indicating its potential for DDI event prediction for newly developed drugs. The model does not depend on heuristic models for generating embeddings and has a minimal number of hyperparameters, making it easy to use while demonstrating outstanding performance in low-data scenarios.},  
+  doi={10.1109/ACCESS.2025.3547594},
+  pdf={KITE-DDI.pdf},
+  preview={KITE_DDI_image.JPG},
+  additional_info={. [Publication link](https://ieeexplore.ieee.org/document/10909071)},
+  abbr={Drug-Discovery}
+}
 
 
 @ARTICLE{Dissertation,
+  bibtex_show={true},
   author={Tamir, Azwad},
   journal={Graduate Thesis and Dissertation post-2024}, 
   title={Architectural and Training Regime Modifications to Transformer Models for low data Applications}, 
@@ -240,20 +253,34 @@
   volume={},
   number={73},
   pages={},
-  keywords={Transformers, Low Data Applications, Transfer Learning, Fusion Model, Multimodal Architecture, Drug-Drug Interaction, Protein Annotation, GO-Terms}}
+  keywords={Machine Learning;Artificial Intelligence;Transformers;Drug-Drug Interaction;Proteomics;Bioinformatics},
+  abstract={A signifcant catalyst of the recent Artifcial Intelligence and Machine Learning revolution is attributed to large language models (LLMs), which include many prominent AI systems such as ChatGPT, Bard, and Gemini. The majority of high-performance LLM models are based on the transformer architecture and the primary factor behind the recent enhancement in the performance of these models is attributed to the increase of layer quantity and dimensionality, resulting in an exponential rise in the total number of learnable parameters, necessitating substantial data for effective training. This may pose a signifcant barrier in certain application domains, such as bioinformatics, pharmaceutical research, and medicinal applications, where data is constrained by its sensitive nature, confdentiality restrictions, and personal privacy laws. The purpose of this study is to design architectural level and training loop modifcations to the transformer architecture to make it more suitable for low-data applications. Our proposed modifcations include selective transfer learning, cross transfer learning, hierarchical system design, convolutional transformers, knowledge graph fusion models, etc. To test the effcacy of the proposed techniques, we have applied the ideas to various applications, including Enzyme Commission (EC) number prediction from fullscale protein sequences. Here, we have linked four transformer ProtBert modules in a hierarchical manner and selectively pretrained them to obtain an accuracy increase from 89.93% to 97.88% and an F1 score boost from 0.9323 to 0.9787 compared to conventional transformer architectures. We have also designed a multimodal, knowledge graph integrated transformer model that could predict fetal drug-drug interaction events from drug SMILES and achieve accuracy increases of up to 6.78% on inductive test settings. Lastly, we have developed a parallel transformer modular architecture for predicting Gene Ontology (GO) terms from full-scale protein sequences and obtain better results with less training data and computational resources compared to other conventional transformer models},
+  pdf={Desertation.pdf},
+  preview={UCF_image.jpg},
+  additional_info={. [Publication link](https://stars.library.ucf.edu/etd2024/73/?utm_source=stars.library.ucf.edu%2Fetd2024%2F73&utm_medium=PDF&utm_campaign=PDFCoverPages)},
+  abbr={Dissertation}
+}
 
 @misc{ProtGO,
+  bibtex_show={true},
   title={ProtGO: A Transformer based Fusion Model for accurately predicting Gene Ontology (GO) Terms from full scale Protein Sequences}, 
   author={Azwad Tamir and Jiann-Shiun Yuan},
   year={2024},
   eprint={2412.05776},
   archivePrefix={arXiv},
   primaryClass={cs.LG},
-  url={https://arxiv.org/abs/2412.05776}, 
+  url={https://arxiv.org/abs/2412.05776},
+  keywords={Artifcial Intelligence;Attention;BERT;Deep Learning;fine-tuning;Fusion models;Gene Ontology(GO) terms;Machine Learning;ProtBert;Pretraining;Protein annotation;Protein sequences;Selective Transfer Learning;Transformers},
+  abstract={Recent developments in next-generation sequencing technology have led to the creation of extensive, open-source protein databases consisting of hundreds of millions of sequences. To render these sequences applicable in biomedical applications, they must be meticulously annotated by wet lab testing or extracting them from existing literature. Over the last few years, researchers have developed numerous automatic annotation systems, particularly deep learning models based on machine learning and artifcial intelligence, to address this issue. In this work, we propose a transformer-based fusion model capable of predicting Gene Ontology (GO) terms from full-scale protein sequences, achieving state-of-the-art accuracy compared to other contemporary machine learning annotation systems. The approach performs particularly well on clustered split datasets, which comprise training and testing samples originating from distinct distributions that are structurally diverse. This demonstrates that the model is able to understand both short and long term dependencies within the enzyme’s structure and can precisely identify the motifs associated with the various GO terms. Furthermore, the technique is lightweight and less computationally expensive compared to the benchmark methods, while at the same time not unaffected by sequence length, rendering it appropriate for diverse applications with varying sequence lengths.},
+  pdf={ProtGO.pdf},
+  preview={ProtGO_img.JPG},
+  additional_info={. [Publication link](https://arxiv.org/abs/2412.05776)},
+  abbr={Protein-AI}
 }
 
 
 @article{SPAD,
+  bibtex_show={true},
   author = {Tamir, Azwad and Saif, Mohammad S.}, % Replace with the actual authors
   title = {Modelling of Performance Parameters of Single Photon Avalanche Detector Incorporating Dead Space Effects and History Dependent Ionization Coefficient},
   journal = {Southeast University Journal of Science and Engineering (SEUJSE)}, % Replace with the actual journal name
@@ -262,6 +289,10 @@
   volume = {12}, % Replace with the volume (if available)
   number = {1}, % Replace with the issue number (if available)
   pages = {19-25}, % Replace with the page range (if available)
-  ISSN = {1999-1630}, % Replace with the DOI (if available)
-  % ... other relevant fields like publisher, address, etc.
+  ISSN = {1999-1630}, % Replace with the DOI (if available),
+  keywords={Dark Count Rate(DCR);Dead Space Multiplication Theory;History dependent Ionization Coefficient;Photo Detection Efficiency (PDE);Single Photon Avalanche Detector (SPAD)},
+  abstract={The modelling and simulation of the performance parameters of single-photon avalanche diode (SPAD) is carried out with the help of MATLAB. The model is applied on a sample SAM SPAD device which consists of a multiplication region made of InP and an absorber region of InGaAs. A generalized theory for breakdown probability is implemented which takes into account the generation of photocarriers at random locations among each layer. The study reveals that by increasing the multiplication region width, the number of dark carriers due to fieldassisted generation mechanisms is reduced which are counteracted by an increase in the number of GR dark carriers. Thus, the photon detection efficiency (PDE) and Dark count rate (DCR) is of utmost importance before the fabrication of a device. In this work we have simulated a SPAD device incorporating dead space effects and history dependent ionization coefficient to generate the electric field profile, dead space profile, ionization coefficient profile, break down profile and avalanche probabilities. Finally, we have extracted the PDE vs. over bias voltage and PDE vs DCR curves of the simulated device under different multiplication region widths to demonstrate the effect of multiplication region width on the performance parameters of a SPAD.},
+  pdf={SPAD.pdf},
+  preview={SPAD_image.JPG},
+  abbr={Photonics}
 }
