@@ -7,6 +7,9 @@ importance: 10
 category: work
 related_publications: true
 ---
+
+Repository: <a href="https://github.com/azwad-tamir/Prot_EC">GitHub</a>
+
 <p><strong style="font-size: 18px;">Paper Link</strong></p>
 <a href="https://azwad-tamir.github.io/assets/pdf/ProtEC.pdf">ProtEC: A Transformer Based Deep Learning System for Accurate Annotation of Enzyme Commission Numbers</a>
 
