@@ -3,7 +3,7 @@ layout: page
 title: Brain-Drive
 description: A Smart Driver for Controlling Digital Appliances Using Cognitive Command
 img: assets/img/publication_preview/brain_drive.jpg
-importance: 10
+importance: 9
 category: work
 related_publications: true
 ---
