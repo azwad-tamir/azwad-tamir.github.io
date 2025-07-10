@@ -3,7 +3,7 @@ layout: page
 title: Anemia Detection
 description: Detection of anemia from image of the anterior conjunctiva of the eye using image processing and thresholding.
 img: assets/img/publication_preview/eye_image.jpg
-importance: 10
+importance: 7
 category: work
 related_publications: true
 ---
