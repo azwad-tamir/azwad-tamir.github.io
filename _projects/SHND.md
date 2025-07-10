@@ -3,7 +3,7 @@ layout: page
 title: Deep SVHN
 description: Street House Number Detection System
 img: assets/img/Yolo_v3.JPG
-importance: 10
+importance: 8
 category: work
 related_publications: false
 ---
