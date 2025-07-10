@@ -24,7 +24,11 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-// Fix for visited link color on CV tab
-.navbar-nav .nav-item .nav-link:visited {
-  color: inherit !important;
+/*
+ * Override the active link color for the CV tab.
+ * This is necessary because the redirect to the PDF incorrectly
+ * leaves the '.active' class on the navigation item.
+*/
+.navbar-nav .nav-item.active a[href="/cv/"] {
+  color: var(--global-text-color) !important;
 }
