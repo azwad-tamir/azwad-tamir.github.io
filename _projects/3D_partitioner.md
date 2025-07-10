@@ -3,7 +3,7 @@ layout: page
 title: GPT_GNN_3D_partitioner
 description: A GPT-GNN based verilog netlist partitioner for 3D IC design
 img: assets/img/GPT-GNN.png
-importance: 10
+importance: 5
 category: work
 related_publications: true
 ---
