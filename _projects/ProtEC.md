@@ -17,7 +17,7 @@ Paper ref: {% cite ProtEC %}
 
 <p><strong style="font-size: 18px;">Description: </strong></p>
 
-In this project a transformer based Deep Learning model has been developed that could predict the Enzyme commission Numbers of Enzymes from full scale sequences. The input of the model are full-scale enzyme protein sequences and the output are the four EC numbers.
+In this project, a transformer based Deep Learning model has been developed that could predict the Enzyme Commission Numbers of Enzymes from full scale sequences. The input of the model is full-scale enzyme protein sequences, and the output are the four EC numbers.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -25,16 +25,16 @@ In this project a transformer based Deep Learning model has been developed that 
     </div>
 </div>
 <div class="caption">
-    Left: Data Flow of the training loop for the ProtEC model; Right: A Block diagram of the overall archtiecture of the ProtEC model.
+    Left: Data Flow of the training loop for the ProtEC model; Right: A Block diagram of the overall architecture of the ProtEC model.
 </div>
 
 <p><strong style="font-size: 18px;">Model: </strong></p>
 
-The model consists of four modified ProtBert modules which has been slectively finetuned to achieve state of the art accuracy on EC numbers. The model has been trained on the Uniprot Swissprot reviewed dataset on two types of splits: The first one is called the random split, which randomly divides the data into train, validation and testing sets. Whereas, the second type is called clustered split, where the data has been split using UNIREF to make sure that the training and testing splits consists of different distributions of sequences.
+The model consists of four modified ProtBert modules which has been slectively finetuned to achieve state of the art accuracy on EC numbers. The model has been trained on the Uniprot Swissprot reviewed dataset on two types of splits: The first one is called the random split, which randomly divides the data into train, validation, and testing sets. Whereas, the second type is called clustered split, where the data has been split using UNIREF to make sure that the training and testing splits consists of different distributions of sequences.
 
 <p><strong style="font-size: 18px;">Results: </strong></p>
 
-The model has been compared with Proteinfer by Goodle and performs better in terms of accuracy and F1 scores. Moreover, the model is able to retain very high accuracy even when the training dataset is shrunk to 10% of its original size making it suitable in applications with very low amount of data. Fruthermore, the model accuracy is independant of sequence length so it is able to preform with very long or short sequences. Lastly, the model tunes most of its hyperparameters by itself so it is easy to use and does not require a separate validation set in order to train.
+The model has been compared with Proteinfer by Goodle and performs better in terms of accuracy and F1 scores. Moreover, the model is able to retain very high accuracy even when the training dataset is shrunk to 10% of its original size, making it suitable in applications with a very low amount of data. Fruthermore, the model accuracy is independant of sequence lengt,h so it is able to preform with very long or short sequences. Lastly, the model tunes most of its hyperparameters by itself, so it is easy to use and does not require a separate validation set in order to train.
 
 Dataset link: <a href="https://drive.google.com/file/d/1bZD67DqXv9LkYo0HCCEXW4USjgjgqBAY/view?usp=sharing">https://drive.google.com/file/d/1bZD67DqXv9LkYo0HCCEXW4USjgjgqBAY/view?usp=sharing</a> 
 
