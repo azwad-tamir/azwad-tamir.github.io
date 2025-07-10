@@ -3,7 +3,7 @@ layout: page
 title: Transfer_ViT
 description: Studying Cross-Transferability of Vision Transformers using HAM10000 skin cancer dataset.
 img: assets/img/Skin_cancer_pic.jpg
-importance: 10
+importance: 4
 category: work
 related_publications: false
 ---
