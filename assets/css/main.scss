@@ -26,5 +26,5 @@ $max-content-width: {{ site.max_width }};
 
 // Fix for visited link color on CV tab
 .navbar-nav .nav-item .nav-link:visited {
-  color: inherit;
+  color: inherit !important;
 }
