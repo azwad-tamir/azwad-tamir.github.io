@@ -3,8 +3,9 @@
 ---
 
 // This rule targets visited links within the navigation bar.
-// It sets their color to the default link color, which is defined
-// by the theme's variables loaded in main.scss.
+// The 'inherit' keyword tells the link to take on the color of its parent,
+// which is styled by the theme. This ensures it always matches the other
+// navigation links, regardless of the theme's color or variables.
 .navbar-nav .nav-item .nav-link:visited {
-  color: $nav-link-color;
+  color: inherit;
 }
