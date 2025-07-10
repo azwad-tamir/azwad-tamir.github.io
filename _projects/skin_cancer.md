@@ -5,7 +5,7 @@ description: Studying Cross-Transferability of Vision Transformers using HAM1000
 img: assets/img/Skin_cancer_pic.jpg
 importance: 10
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Repository: <a href="https://github.com/azwad-tamir/Transfer_ViT">GitHub</a>
