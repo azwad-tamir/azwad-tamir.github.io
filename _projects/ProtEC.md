@@ -3,7 +3,7 @@ layout: page
 title: ProtEC
 description: A Transformer Based Deep Learning System for Accurate Annotation of Enzyme Commission Numbers
 img: assets/img/ProtEC_pic1.JPG
-importance: 10
+importance: 2
 category: work
 related_publications: true
 ---
