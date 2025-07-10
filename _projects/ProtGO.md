@@ -3,7 +3,7 @@ layout: page
 title: ProtGO
 description: A Transformer based Fusion Model for accurately predicting Gene Ontology (GO) Terms from full scale Protein Sequences
 img: assets/img/ProtGO_pic.JPG
-importance: 11
+importance: 3
 category: work
 related_publications: true
 ---
