@@ -3,7 +3,7 @@ layout: page
 title: KITE-DDI
 description: A knowledge graph integrated Transformer model for Drug-Drug Interaction prediction, specializing in cold start settings.
 img: assets/img/KITE_DDI_pic.JPG
-importance: 10
+importance: 1
 category: work
 related_publications: true
 ---
