@@ -29,6 +29,6 @@ $max-content-width: {{ site.max_width }};
  * This is necessary because the redirect to the PDF incorrectly
  * leaves the '.active' class on the navigation item.
 */
-.navbar-nav .nav-item.active a[href="/cv/"] {
+.navbar-light .navbar-nav .nav-item.active .nav-link[href="/pages/cv/"] {
   color: var(--global-text-color) !important;
 }
