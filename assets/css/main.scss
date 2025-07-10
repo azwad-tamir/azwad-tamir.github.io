@@ -24,4 +24,7 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-@import "custom";
+// Fix for visited link color on CV tab
+.navbar-nav .nav-item .nav-link:visited {
+  color: inherit;
+}
