@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: resume
 permalink: /cv1/
 nav: true
 nav_order: 3
