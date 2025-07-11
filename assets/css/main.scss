@@ -24,9 +24,4 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-/*
- * Diagnostic Test: Force the CV link to be yellow.
-*/
-a.nav-link[href="/pages/cv/"] {
-  color: yellow !important;
-}
+
