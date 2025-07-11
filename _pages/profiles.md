@@ -1,10 +1,10 @@
 ---
-layout: page
-permalink: /contact/
-title: contact
-description: Please use one of the following methods for contacting me:
+layout: profiles
+permalink: /people/
+title: people
+description: members of the lab or group
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 Personal Email address: hsazwad@gmail.com
