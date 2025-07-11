@@ -25,10 +25,8 @@ $max-content-width: {{ site.max_width }};
 ;
 
 /*
- * Final override for the CV tab's active color.
- * This uses the #navbar ID to ensure it is more specific
- * than the default theme styles.
+ * Diagnostic Test: Force the CV link to be yellow.
 */
-nav#navbar .navbar-nav .nav-item.active > a.nav-link[href="/pages/cv/"] {
-  color: var(--global-text-color) !important;
+a.nav-link[href="/pages/cv/"] {
+  color: yellow !important;
 }
