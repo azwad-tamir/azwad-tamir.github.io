@@ -1,28 +1,15 @@
 ---
-layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+layout: page
+permalink: /contact/
+title: contact
+description: Please use one of the following methods for contacting me:
 nav: true
-nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+nav_order: 6
 ---
+
+Personal Email address: hsazwad@gmail.com
+
+Academic Email address: azwad.tamir@ucf.edu
+
+Linkedin: https://www.linkedin.com/in/azwad-tamir-phd-6ab49a154/
+
