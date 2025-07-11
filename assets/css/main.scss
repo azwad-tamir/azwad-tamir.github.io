@@ -25,10 +25,10 @@ $max-content-width: {{ site.max_width }};
 ;
 
 /*
- * Override the active link color for the CV tab.
- * This is necessary because the redirect to the PDF incorrectly
- * leaves the '.active' class on the navigation item.
+ * Final override for the CV tab's active color.
+ * This uses the #navbar ID to ensure it is more specific
+ * than the default theme styles.
 */
-.navbar-light .navbar-nav .nav-item.active .nav-link[href="/pages/cv/"] {
+nav#navbar .navbar-nav .nav-item.active > a.nav-link[href="/pages/cv/"] {
   color: var(--global-text-color) !important;
 }
