@@ -31,8 +31,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<strong>Research Areas: </strong> Developing low-data deep learning models like Transformers, GNN, CNN, RL, Foundation Models, KG, Multimodal Fusion Models, and Generative Models on various real-world applications including Bioinformatics, Drug Discovery, CV, Healthcare, Forecasting, and Electronics.
-
 I am a Machine Learning Engineer and Researcher with 5+ years of experience in Designing, Developing, and implementing Deep learning models like LLMs, Transformers, GNNs, Generative models, Diﬀusion models, Foundation models, Multimodal Fusion models, and RL, on various applications including NLP, Bioinformatics, Healthcare, Forecasting, Electronics, CV, and have familiarity with version control(GIT), SQLite, MySQL, PostgreSQL, cloud computing(AWS), Parallel/Distributed computing (Multi GPU training), Docker, RAG, Prompt Engineering, MCP, and Data curation and Processing (Pandas, SQL, PowerBI, Kafka, Spark, Hadoop, Tableau).
 
 I have completed my PhD in the Department of ECE at UCF in December 2024 with a concentration in ML/AI.
@@ -44,4 +42,6 @@ I have multiple publications in top ML journals and conferences.
 I also have industry experience during my internship as a Data Scientist at Bayer as well as working on joint projects with Tokyo Electron, ARM, and Synopsys on real‑world ML applications and large-scale applied ML projects.
 
 <strong>PhD Dissertation: </strong> Architectural and Training Regime Modifications to Transformer Models for Low Data Applications.
+
+<strong>Research Areas: </strong> Developing low-data deep learning models like Transformers, GNN, CNN, RL, Foundation Models, KG, Multimodal Fusion Models, and Generative Models on various real-world applications including Bioinformatics, Drug Discovery, CV, Healthcare, Forecasting, and Electronics.
 
