@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - azwad-tamir
 
-repo_description_lines_max: 2
+repo_description_lines_max: 4
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - azwad-tamir/KiteDDI
+  - azwad-tamir/Prot_EC
+  - azwad-tamir/ProtGO
+  - azwad-tamir/gpt_gnn_3D_partitioner
+  - azwad-tamir/Deep_SVHN
+  - azwad-tamir/Crime_prediction
+  - azwad-tamir/Transfer_ViT
