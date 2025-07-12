@@ -37,7 +37,7 @@ I am a Machine Learning Engineer and Researcher with 5+ years of experience in D
 
 I have completed my PhD in the Department of ECE at UCF in December 2024 with a concentration in ML/AI.
 
-I have 6 years of experience in the Python (NumPy, SciPy, Pandas, etc.), java, and C++ programming languages using TensorFlow, Pytorch, CUDA, HuggingFace, Scikit‑learn, RD-Kit frameworks, along with a deep understanding of statistics and linear algebra, and proficiency in clean, scalable, and documented coding practices.
+I have 6 years of experience in the Python (NumPy, SciPy, Pandas, etc.), java, and C++ programming languages using TensorFlow, Pytorch, CUDA, HuggingFace, Scikit‑learn, RDKit frameworks, along with a deep understanding of statistics and linear algebra, and proficiency in clean, scalable, and documented coding practices.
 
 I have multiple publications in top ML journals and conferences.
 
