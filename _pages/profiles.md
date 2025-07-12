@@ -4,7 +4,7 @@ permalink: /people/
 title: contact
 description: Please get in touch with me by any of the following
 nav: true
-nav_order: 7
+nav_order: 6
 ---
 
 Personal Email address: <a href="hsazwad@gmail.com">hsazwad@gmail.com</a>
