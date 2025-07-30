@@ -45,3 +45,5 @@ I also have industry experience during my internship as a Data Scientist at Baye
 
 <strong>Research Areas: </strong> Developing low-data deep learning models like Transformers, GNN, CNN, RL, Foundation Models, KG, Multimodal Fusion Models, and Generative Models on various real-world applications including Bioinformatics, Drug Discovery, CV, Healthcare, Forecasting, and Electronics.
 
+
+<p style="font-size: 32px;">This is large text.</p>
