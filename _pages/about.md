@@ -45,11 +45,26 @@ I also have industry experience during my internship as a Data Scientist at Baye
 
 <strong>Research Areas: </strong> Developing low-data deep learning models like Transformers, GNN, CNN, RL, Foundation Models, KG, Multimodal Fusion Models, and Generative Models on various real-world applications including Bioinformatics, Drug Discovery, CV, Healthcare, Forecasting, and Electronics.
 
-# <p style="color: blue; font-size: 16px;">This text is blue and 16 pixels in size.</p>
+______________________________________________________________________________________________________________________________________________________
+<hr>
 
-<p style="color: blue; font-size: 28px;">Experience: </p>
+<p style="color: lightblue; font-size: 28px;">Experience: </p>
 
-This is the body of the experience.
+Volunteer Research Assistant | Department of ECE | University of Central Florida (UCF) | Feb 2025 - Current
+Responsibilities include:
+<ul>
+  <li>Developing, Implementing, and Deploying ML algorithms like Transformers, GNN, and Multimodal Fusion models in Genomics, Proteomics, and Drug Discovery.</li>
+  <li>Investigating the effects of Protein 3D structure on Enzyme Comission(EC) Number Detection from full-scale protein sequences.</li>
+  <li>Studying the application of Generative AI methods in Proteomics, Drug Discovery, and Healthcare</li>
+</ul>
+
+Volunteer Research Assistant | Department of ECE | University of Central Florida (UCF) | Feb 2025 - Current
+Responsibilities include:
+<ul>
+  <li>Developing, Implementing, and Deploying ML algorithms like Transformers, GNN, and Multimodal Fusion models in Genomics, Proteomics, and Drug Discovery.</li>
+  <li>Investigating the effects of Protein 3D structure on Enzyme Comission(EC) Number Detection from full-scale protein sequences.</li>
+  <li>Studying the application of Generative AI methods in Proteomics, Drug Discovery, and Healthcare</li>
+</ul>
 
 <p style="font-size: 28px;">Education: </p>
 
