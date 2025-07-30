@@ -45,8 +45,9 @@ I also have industry experience during my internship as a Data Scientist at Baye
 
 <strong>Research Areas: </strong> Developing low-data deep learning models like Transformers, GNN, CNN, RL, Foundation Models, KG, Multimodal Fusion Models, and Generative Models on various real-world applications including Bioinformatics, Drug Discovery, CV, Healthcare, Forecasting, and Electronics.
 
+# <p style="color: blue; font-size: 16px;">This text is blue and 16 pixels in size.</p>
 
-<p style="font-size: 28px;">Experience: </p>
+<p style="color: blue; font-size: 28px;">Experience: </p>
 
 This is the body of the experience.
 
