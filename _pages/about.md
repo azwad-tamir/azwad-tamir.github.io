@@ -50,7 +50,7 @@ ________________________________________________________________________________
 
 <p style="color: #2698BA; font-size: 28px;">Experience: </p>
 
-<strong>Volunteer Research Assistant | Department of ECE | University of Central Florida (UCF) | Feb 2025 - Current</strong>
+<strong>Volunteer Research Assistant  |  Department of ECE  |  University of Central Florida (UCF)  |  Feb 2025 - Current</strong>
 
 Responsibilities include:
 <ul>
@@ -61,7 +61,7 @@ Responsibilities include:
 
 <hr>
 
-<strong>Graduate Research Assistant | Department of ECE | University of Central Florida (UCF) | Aug 2019 - Dec 2024</strong>
+<strong>Graduate Research Assistant  |  Department of ECE  |  University of Central Florida (UCF)  |  Aug 2019 - Dec 2024</strong>
 
 Primary Responsibility includes working on various ML related research Projects. Some of them are:
 <ul>
@@ -74,14 +74,14 @@ Primary Responsibility includes working on various ML related research Projects.
 
 <hr>
 
-<strong>Remote Sensing Data Science Intern | Bayer Research and Development Services | May 2023 - Aug 2023</strong>
+<strong>Remote Sensing Data Science Intern  |  Bayer Research and Development Services  |  May 2023 - Aug 2023</strong>
 
 • 
 Project:
 <ul>
   <li>Determining Phenotype of corn plants from UAV (Unmanned Ariel Vehicle) images of corn fields.</li>
   <li>Implemented various CNN and transformer‑based vision algorithms and evaluated and compared their performance to identify the best‑suited model for the application.</li>
-  <li>The best model consisted of an U-Net based segmentation algorithm followed by an ensemble classifier based on CNN and ViT</li>
+  <li>The best model consisted of an U-Net based segmentation algorithm followed by an ensemble classifier based on CNN and ViT.</li>
 </ul>
 
 <hr>
@@ -89,9 +89,9 @@ Project:
 
 <p style="color: #2698BA; font-size: 28px;">Education: </p>
 
-<strong>PhD in Electrical Engineering | University of Central Florida (UCF) | Fall 2019 ‑ Fall 2024</strong>
+<strong>PhD in Electrical Engineering  |  University of Central Florida (UCF)  |  Fall 2019 ‑ Fall 2024</strong>
 <ul>
-  <li>**Concentration:** Machine Learning Applications.</li>
+  <li><b>Concentration:</b> Machine Learning Applications.</li>
   <li>**Research Areas:** Developing various Deep‑learning Models in NLP, CV, and GNN for low data Applications in various real‑world applications.</li>
   <li>**Dissertation Title:** Architectural and Training regime Modifications to Transformer models for Low Data Applications.</li>
   <li>**CGPA:** 4.0 out of 4.0</li>
@@ -100,32 +100,11 @@ Project:
 
 <hr>
 
-<strong>Masters of Science in Electrical Engineering | University of Central Florida (UCF) | Fall 2019 ‑ Spring 2023</strong>
+<strong>Masters of Science in Electrical Engineering  |  University of Central Florida (UCF)  |  Fall 2019 ‑ Spring 2023</strong>
 <ul>
   <li>**CGPA:** 4.0 out of 4.0</li>
   <li>**Major:** Electrical Engineering.</li>
 </ul>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<hr>
+<hr>
