@@ -48,7 +48,7 @@ I also have industry experience during my internship as a Data Scientist at Baye
 ______________________________________________________________________________________________________________________________________________________
 <hr>
 
-<p style="color: lightblue; font-size: 28px;">Experience: </p>
+<p style="color: #2698BA; font-size: 28px;">Experience: </p>
 
 Volunteer Research Assistant | Department of ECE | University of Central Florida (UCF) | Feb 2025 - Current
 Responsibilities include:
