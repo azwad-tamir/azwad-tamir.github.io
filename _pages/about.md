@@ -50,7 +50,8 @@ ________________________________________________________________________________
 
 <p style="color: #2698BA; font-size: 28px;">Experience: </p>
 
-Volunteer Research Assistant | Department of ECE | University of Central Florida (UCF) | Feb 2025 - Current
+<strong>Volunteer Research Assistant | Department of ECE | University of Central Florida (UCF) | Feb 2025 - Current</strong>
+
 Responsibilities include:
 <ul>
   <li>Developing, Implementing, and Deploying ML algorithms like Transformers, GNN, and Multimodal Fusion models in Genomics, Proteomics, and Drug Discovery.</li>
@@ -58,13 +59,33 @@ Responsibilities include:
   <li>Studying the application of Generative AI methods in Proteomics, Drug Discovery, and Healthcare</li>
 </ul>
 
-Volunteer Research Assistant | Department of ECE | University of Central Florida (UCF) | Feb 2025 - Current
-Responsibilities include:
+<hr>
+
+<strong>Graduate Research Assistant | Department of ECE | University of Central Florida (UCF) | Aug 2019 - Dec 2024</strong>
+
+Primary Responsibility includes working on various ML related research Projects. Some of them are:
 <ul>
-  <li>Developing, Implementing, and Deploying ML algorithms like Transformers, GNN, and Multimodal Fusion models in Genomics, Proteomics, and Drug Discovery.</li>
-  <li>Investigating the effects of Protein 3D structure on Enzyme Comission(EC) Number Detection from full-scale protein sequences.</li>
-  <li>Studying the application of Generative AI methods in Proteomics, Drug Discovery, and Healthcare</li>
+  <li>KITE‑DDI: A Knowledge graph integrated Transformer architecture for accurately predicting Drug‑Drug Interaction events from SMILES.</li>
+  <li>ProtEC: A Transformer based deep learning model to accurately predict Enzyme Commission numbers from full‑scale protein sequences.</li>
+  <li>ProtGO: A Transformer based fusion model for accurately predicting Gene Ontology(GO) terms from full-scale protein sequences.</li>
+  <li>CancerViT: A Vision Transformer model for detecting skin cancer with high accuracy, trained using the HAM10000 dataset using Cross Transfer learning.</li>
+  <li>Collaborative Project with Tokyo Electron Ltd. to develop Design Flow for 3D IC design.</li>
 </ul>
+
+<hr>
+
+<strong>Remote Sensing Data Science Intern | Bayer Research and Development Services | May 2023 - Aug 2023</strong>
+
+• 
+Project:
+<ul>
+  <li>Determining Phenotype of corn plants from UAV (Unmanned Ariel Vehicle) images of corn fields.</li>
+  <li>Implemented various CNN and transformer‑based vision algorithms and evaluated and compared their performance to identify the best‑suited model for the application.</li>
+  <li>The best model consisted of an U-Net based segmentation algorithm followed by an ensemble classifier based on CNN and ViT</li>
+</ul>
+
+<hr>
+<hr>
 
 <p style="font-size: 28px;">Education: </p>
 
