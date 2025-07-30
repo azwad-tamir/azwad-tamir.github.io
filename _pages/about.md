@@ -50,7 +50,7 @@ ________________________________________________________________________________
 
 <p style="color: #2698BA; font-size: 28px;">Experience: </p>
 
-<strong>Volunteer Research Assistant  |  Department of ECE  |  University of Central Florida (UCF)  |  Feb 2025 - Current</strong>
+<strong>Volunteer Research Assistant  ||  Department of ECE  ||  University of Central Florida (UCF)  ||  Feb 2025 - Current</strong>
 
 Responsibilities include:
 <ul>
@@ -61,22 +61,21 @@ Responsibilities include:
 
 <hr>
 
-<strong>Graduate Research Assistant  |  Department of ECE  |  University of Central Florida (UCF)  |  Aug 2019 - Dec 2024</strong>
+<strong>Graduate Research Assistant  ||  Department of ECE  ||  University of Central Florida (UCF)  ||  Aug 2019 - Dec 2024</strong>
 
 Primary Responsibility includes working on various ML related research Projects. Some of them are:
 <ul>
-  <li>KITE‑DDI: A Knowledge graph integrated Transformer architecture for accurately predicting Drug‑Drug Interaction events from SMILES.</li>
-  <li>ProtEC: A Transformer based deep learning model to accurately predict Enzyme Commission numbers from full‑scale protein sequences.</li>
-  <li>ProtGO: A Transformer based fusion model for accurately predicting Gene Ontology(GO) terms from full-scale protein sequences.</li>
-  <li>CancerViT: A Vision Transformer model for detecting skin cancer with high accuracy, trained using the HAM10000 dataset using Cross Transfer learning.</li>
+  <li><b>KITE‑DDI:</b> A Knowledge graph integrated Transformer architecture for accurately predicting Drug‑Drug Interaction events from SMILES.</li>
+  <li><b>ProtEC:</b> A Transformer based deep learning model to accurately predict Enzyme Commission numbers from full‑scale protein sequences.</li>
+  <li><b>ProtGO:</b> A Transformer based fusion model for accurately predicting Gene Ontology(GO) terms from full-scale protein sequences.</li>
+  <li><b>CancerViT:</b> A Vision Transformer model for detecting skin cancer with high accuracy, trained using the HAM10000 dataset using Cross Transfer learning.</li>
   <li>Collaborative Project with Tokyo Electron Ltd. to develop Design Flow for 3D IC design.</li>
 </ul>
 
 <hr>
 
-<strong>Remote Sensing Data Science Intern  |  Bayer Research and Development Services  |  May 2023 - Aug 2023</strong>
+<strong>Remote Sensing Data Science Intern  ||  Bayer Research and Development Services  ||  May 2023 - Aug 2023</strong>
 
-• 
 Project:
 <ul>
   <li>Determining Phenotype of corn plants from UAV (Unmanned Ariel Vehicle) images of corn fields.</li>
@@ -89,21 +88,21 @@ Project:
 
 <p style="color: #2698BA; font-size: 28px;">Education: </p>
 
-<strong>PhD in Electrical Engineering  |  University of Central Florida (UCF)  |  Fall 2019 ‑ Fall 2024</strong>
+<strong>PhD in Electrical Engineering  ||  University of Central Florida (UCF)  ||  Fall 2019 ‑ Fall 2024</strong>
 <ul>
   <li><b>Concentration:</b> Machine Learning Applications.</li>
-  <li>**Research Areas:** Developing various Deep‑learning Models in NLP, CV, and GNN for low data Applications in various real‑world applications.</li>
-  <li>**Dissertation Title:** Architectural and Training regime Modifications to Transformer models for Low Data Applications.</li>
-  <li>**CGPA:** 4.0 out of 4.0</li>
-  <li>**Courses:** Machine Learning, Machine Learning Methods for Biomedical Data, Computational Genomics, Data Mining Methodology II, Intro to Neural Networks, Computer Vision, 3D Computer Vision, Design & Analysis of Algorithms, CMOS Analog & Digital Circuit Design, Malware Sofware Vulnerability, Incident Response Technologies.</li>
+  <li><b>Research Areas:</b> Developing various Deep‑learning Models in NLP, CV, and GNN for low data Applications in various real‑world applications.</li>
+  <li><b>Dissertation Title:</b> Architectural and Training regime Modifications to Transformer models for Low Data Applications.</li>
+  <li><b>CGPA:</b> 4.0 out of 4.0</li>
+  <li><b>Courses:</b> Machine Learning, Machine Learning Methods for Biomedical Data, Computational Genomics, Data Mining Methodology II, Intro to Neural Networks, Computer Vision, 3D Computer Vision, Design & Analysis of Algorithms, CMOS Analog & Digital Circuit Design, Malware Sofware Vulnerability, Incident Response Technologies.</li>
 </ul>
 
 <hr>
 
-<strong>Masters of Science in Electrical Engineering  |  University of Central Florida (UCF)  |  Fall 2019 ‑ Spring 2023</strong>
+<strong>Masters of Science in Electrical Engineering  ||  University of Central Florida (UCF)  ||  Fall 2019 ‑ Spring 2023</strong>
 <ul>
-  <li>**CGPA:** 4.0 out of 4.0</li>
-  <li>**Major:** Electrical Engineering.</li>
+  <li><b>CGPA:</b> 4.0 out of 4.0</li>
+  <li><b>Major:</b> Electrical Engineering.</li>
 </ul>
 
 <hr>
