@@ -87,6 +87,45 @@ Project:
 <hr>
 <hr>
 
-<p style="font-size: 28px;">Education: </p>
+<p style="color: #2698BA; font-size: 28px;">Education: </p>
 
-This is the body of the education.
+<strong>PhD in Electrical Engineering | University of Central Florida (UCF) | Fall 2019 ‑ Fall 2024</strong>
+<ul>
+  <li>**Concentration:** Machine Learning Applications.</li>
+  <li>**Research Areas:** Developing various Deep‑learning Models in NLP, CV, and GNN for low data Applications in various real‑world applications.</li>
+  <li>**Dissertation Title:** Architectural and Training regime Modifications to Transformer models for Low Data Applications.</li>
+  <li>**CGPA:** 4.0 out of 4.0</li>
+  <li>**Courses:** Machine Learning, Machine Learning Methods for Biomedical Data, Computational Genomics, Data Mining Methodology II, Intro to Neural Networks, Computer Vision, 3D Computer Vision, Design & Analysis of Algorithms, CMOS Analog & Digital Circuit Design, Malware Sofware Vulnerability, Incident Response Technologies.</li>
+</ul>
+
+<hr>
+
+<strong>Masters of Science in Electrical Engineering | University of Central Florida (UCF) | Fall 2019 ‑ Spring 2023</strong>
+<ul>
+  <li>**CGPA:** 4.0 out of 4.0</li>
+  <li>**Major:** Electrical Engineering.</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
