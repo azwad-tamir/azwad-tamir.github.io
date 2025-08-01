@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ML-Forcasting
+title: ML-Forecasting
 description: Crime Prediction and Forecasting using Machine Learning Algorithms
 img: assets/img/publication_preview/crime_img.jpg
 importance: 6
