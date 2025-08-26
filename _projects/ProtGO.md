@@ -41,7 +41,7 @@ which comprise training and testing samples originating from distinct distributi
 diverse. This demonstrates that the model can understand both short and long-term dependencies
 within the enzyme’s structure and can precisely identify the motifs associated with the various GO terms.
 Furthermore, the technique is lightweight and less computationally expensive compared to the benchmark
-methods, while at the same time not being unaffected by sequence length, rendering it appropriate for diverse
+methods, while at the same time not being affected by sequence length, rendering it appropriate for diverse
 applications with varying sequence lengths.
 
 
