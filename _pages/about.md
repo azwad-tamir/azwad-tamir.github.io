@@ -11,10 +11,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <div style="text-align: center;">
-     <p>4000 Fort Lee Road</p>
-    </div>
-    <div style="text-align: center;">
-     <p>Bogota, NJ 07603</p>
+     <p>Pittsburgh PA</p>
     </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
